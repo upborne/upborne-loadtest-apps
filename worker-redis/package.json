@@ -1,0 +1,7 @@
+{
+  "name": "worker-redis",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node worker.js" },
+  "dependencies": { "redis": "^4.7.0" }
+}
